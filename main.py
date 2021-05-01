@@ -50,5 +50,6 @@ while ans:
     elif ans=="0":
         #Comando para encerrar
         quit()
+
     else:
-        print("Escolha inválida digite o número da opção desejada.")
+        print("Escolha inválida digite o número da opção desejada.",end="\n")
