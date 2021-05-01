@@ -1,3 +1,6 @@
+#Conversor de taxas de juros
+#Estudo de Python - AllRox 2021
+
 import math
 ans=True
 while ans:
